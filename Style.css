@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins',sans-serif;
+}
+
+nav{
+  display: flex;
+  width: 400%;
+  background: greenyellow;
+  position: relative;
+  justify-content: space-between;
+  
+  padding: 50px 30px;
+}
+div{
+  width: 130%;
+  font-size: 70px;
+}
+h1 {
+  font-size: 50px;
+  color: black;
+  margin: 500;
+  background: magenta;
+  width: 400%;
+  padding: 10px 30 px;
+}
+p {
+  font-size:  50px;
+  padding: 50px 40px;
+  margin: 0;
+  background: seashell;
+  width: 400%;
+  
+  
+}
+h2{
+  font-size:  50px;
+  padding: 50px 40px;
+  margin: 500;
+  
+}
+  h2{
+    
+  background: whitesmoke;
+  width: 400%;
+  padding: 5px 5px;
+    text-align: center;
+    justify-content:  space-between;
+}
+u p{
+  font-size: 70px;
+  color: blue;
+  background: yellow;
+}
+nav li a{
+  width:  100%;
+  font-size: 60px;
+  padding: 5px 5px;
+  color: red;
+  display: flex;
+}
+nav a{
+  display: flex;
+  position: relative;
+  
+  padding: 5px 5px;
+  font-size: 70px;
+  
+} 
+nav li a{
+  
+}
